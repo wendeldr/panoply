@@ -1,0 +1,17 @@
+scipy
+numpy
+pytest
+pandas
+matplotlib
+jupyter
+statsmodels
+sklearn
+pyqtgraph
+PyQt5
+tqdm
+scikits.bootstrap
+py-ecg-detectors
+biosppy
+bottleneck
+pyarrow
+joblib
